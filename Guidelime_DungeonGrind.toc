@@ -1,0 +1,21 @@
+
+## Title: Guidelime_DungeonGrind
+## Author: Keatan Bauer
+## Version: 0.001-Beta
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Hakurai dungeon grind parse, class quests to be added
+
+11-17_RFC_STM.lua
+17-19_STM_WC.lua
+18-20_WC_SFK.lua
+20-24_SFK_RFK.lua
+24-30_RFK_TM.lua
+30-43_TM_SM.lua
+43-49_SM_MARA.lua
+49-50_ZF_BRD.lua
+50-58_BRD_WPL.lua
+58-60_WPL_EPL.lua
+
+
+
