@@ -8,5 +8,5 @@ in game prompting for use in conjunction with purchased hakurai horde dungeon le
 
 ## How to use
 - Guidelime installed (Guidelime in addons folder)
-- Install Guidelime_DungeonGrind into addons folder
+- Install Guidelime_DungeonGrind into addons folder (may need to rename to remove -master from end of folder name)
 - Enable Guidelime_DungeonGrind and Guidelime in addon screen
