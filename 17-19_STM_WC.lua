@@ -2,7 +2,6 @@ Guidelime.registerGuide([[
 [GA Horde]
 [N17-19_STM_WC]
 [NX18-20_WC_SFK]
-[D Make sure to give a follow to *Haukrai* for this guide!\\www.youtube.com/user/Domeran/Videos]
 Turn in\\[G35.26,27.86The Barrens][QT1061]
 Accept\\[G35.26,27.86The Barrens][QA1062]\\[G33.72,22.51,142The Barrens][QC6548]
 North and Complete\\[G33.72,22.51,142The Barrens][QC6548]
